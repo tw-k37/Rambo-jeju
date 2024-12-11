@@ -32,7 +32,7 @@
             flex-direction: row-reverse;
         }
         .profile img {
-            <img src="./icon.jpeg"width="40" height="40">
+            <img src="./icon.png" width="40" height="40">
         }
         .message-container.sent .profile img {
             margin-left: 10px;
