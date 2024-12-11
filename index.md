@@ -9,7 +9,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: linear-gradient(to bottom, #6b88c5, #8dbbf1);
+            background-color: #8dbbf1;
             height: 100vh;
             display: flex;
             flex-direction: column;
