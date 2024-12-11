@@ -36,9 +36,7 @@
             height: 40px;
             border-radius: 50%;
             margin-right: 10px;
-            <img src="./tw-k37/nambo-jeju/icon.jpeg"width="10" height="10">
-
-
+            <img src="tw-k37/nambo-jeju/icon.jpeg"width="40" height="40">
         }
         .message-container.sent .profile img {
             margin-left: 10px;
