@@ -112253,3 +112253,11 @@
 <img src="./DSCF6496.jpg">
 <img src="./IMG_2510.jpg">
 <img src="./DSCF7284.jpg">
+<img src="./KakaoTalk_Photo_2024-12-12-00-49-53.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-50-06.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-50-20.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-51-07.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-51-56.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-52-55.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-53-14.jpeg">
+<img src="KakaoTalk_Photo_2024-12-12-00-53-58.jpeg">
