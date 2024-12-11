@@ -32,7 +32,7 @@
             flex-direction: row-reverse;
         }
         .profile img {
-            <img src="tw-k37/nambo-jeju/icon.png" width="40" height="40">
+            <img src="./tw-k37/nambo-jeju/icon.png">
         }
         .message-container.sent .profile img {
             margin-left: 10px;
